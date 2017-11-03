@@ -1,0 +1,57 @@
+#picture {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  color: white;
+}
+li {
+  font-size: 20px
+  color: white;
+}
+#container {
+background-color: #BCBCBC;
+}
+#top, #bottom, #left, #right {
+	background: black;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+.container3{
+  font-size: 20px;
+  color: white;
+ text-align: left;
+ margin: 20px;
+}
+.container4{
+  font-size: 20px;
+  color: white;
+ text-align: left;
+ margin: 20px;
+
+}
+.container5{
+  font-size: 20px;
+  color: white;
+ text-align: center;
+ margin: 20px;
+}
+#star {
+  font-size: 100px;
+  color: white;
+  text-align: center;
+}
+.classWithPad {
+  margin:10px;
+  padding:10px;
+}
